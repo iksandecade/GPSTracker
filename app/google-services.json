@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "228892615334",
+    "firebase_url": "https://gpstracker-8b833.firebaseio.com",
+    "project_id": "gpstracker-8b833",
+    "storage_bucket": "gpstracker-8b833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228892615334:android:3d86262477327311",
+        "android_client_info": {
+          "package_name": "com.example.iksandecade.gpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228892615334-9ecil5pgf0v53lmgs56bbs1fdh2f226q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iksandecade.gpstracker",
+            "certificate_hash": "76f5bd76006a1e65b8db191531d4bb9bd4dcc919"
+          }
+        },
+        {
+          "client_id": "228892615334-t2gkgqfg20slg6lab6i65kg0iie71gtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7JvDo5u7dk3baNf24DSX5bcyaAlKMTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228892615334-t2gkgqfg20slg6lab6i65kg0iie71gtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228892615334:android:e48f4b274322ccf9",
+        "android_client_info": {
+          "package_name": "com.example.iksandecade.gpstrackerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228892615334-j4h91i1gdqiidbgeee259fmhoo2ka63r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iksandecade.gpstrackerv2",
+            "certificate_hash": "76f5bd76006a1e65b8db191531d4bb9bd4dcc919"
+          }
+        },
+        {
+          "client_id": "228892615334-t2gkgqfg20slg6lab6i65kg0iie71gtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7JvDo5u7dk3baNf24DSX5bcyaAlKMTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228892615334-t2gkgqfg20slg6lab6i65kg0iie71gtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
